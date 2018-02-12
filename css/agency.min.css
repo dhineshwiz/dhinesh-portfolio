@@ -698,7 +698,7 @@ ul.social-buttons li a:hover {
 }
 
 
-image--cover {
+.image--cover {
   width: 150px;
   height: 150px;
   border-radius: 50%;
