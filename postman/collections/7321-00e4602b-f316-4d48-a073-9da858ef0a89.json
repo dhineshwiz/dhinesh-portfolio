@@ -6,8 +6,61 @@
 	},
 	"item": [
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "7321-d884f5ba-5094-497b-ba34-1ec9e8e3b180"
+		},
+		{
 			"name": "New Request",
 			"id": "7321-9e73d016-2295-4f31-a117-e41663af6d76",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "7321-72837e7c-3e1a-4fbb-be1e-494898dc15b1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "7321-56fccdba-a4d0-470d-adf6-d3352ec8d816",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "7321-5c9cd819-0f33-491f-8fd1-296f3d975194",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "7321-d8452286-79dc-4ced-b1c7-3e0366390960",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
