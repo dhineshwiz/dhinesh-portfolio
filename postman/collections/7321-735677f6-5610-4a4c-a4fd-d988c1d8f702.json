@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "7321-735677f6-5610-4a4c-a4fd-d988c1d8f702",
+		"name": "glc-cloud",
+		"description": "dd",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "7321-5a937405-d954-4c8d-8aca-ca0339dd74c2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "97962194-0d18-426c-8950-9066a12078d1",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "ee8ca1cd-9aab-4ed4-af3d-838904e1863c",
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					"dds"
+				]
+			}
+		}
+	]
+}
