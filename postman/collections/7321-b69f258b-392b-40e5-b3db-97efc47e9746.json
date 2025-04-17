@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "7321-b69f258b-392b-40e5-b3db-97efc47e9746",
+		"name": "glc-cloud-demo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "7321-4650fcb1-d7b0-4e4e-b6bf-49ca3a8b2fae",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
