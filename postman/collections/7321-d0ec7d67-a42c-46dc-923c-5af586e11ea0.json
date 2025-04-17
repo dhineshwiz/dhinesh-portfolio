@@ -15,12 +15,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "abc/test",
+					"raw": "abc/test/test1",
 					"host": [
 						"abc"
 					],
 					"path": [
-						"test"
+						"test",
+						"test1"
 					]
 				}
 			},
