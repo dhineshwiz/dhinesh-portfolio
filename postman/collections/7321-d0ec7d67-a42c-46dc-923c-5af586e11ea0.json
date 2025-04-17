@@ -13,7 +13,13 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "abc",
+					"host": [
+						"abc"
+					]
+				}
 			},
 			"response": []
 		}
