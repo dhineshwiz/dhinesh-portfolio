@@ -1245,7 +1245,17 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "https://api.getpostman.com/me./test",
+					"protocol": "https",
+					"host": [
+						"api",
+						"getpostman",
+						"com"
+					],
+					"path": [
+						"me.",
+						"test"
+					]
 				}
 			},
 			"response": []
