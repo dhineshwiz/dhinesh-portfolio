@@ -11,7 +11,12 @@
 			"id": "7321-d884f5ba-5094-497b-ba34-1ec9e8e3b180"
 		},
 		{
-			"name": "New Requesthjhhj99",
+			"name": "new folder",
+			"item": [],
+			"id": "7321-23ee4ed8-71d5-4ce1-8f7c-abbf746609d7"
+		},
+		{
+			"name": "New Request",
 			"id": "7321-9e73d016-2295-4f31-a117-e41663af6d76",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -115,7 +120,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "jhhh",
+					"host": [
+						"jhhh"
+					]
 				}
 			},
 			"response": []
