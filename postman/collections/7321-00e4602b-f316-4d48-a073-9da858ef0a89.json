@@ -50,7 +50,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://postman-echo.com/get/test/123",
+					"raw": "https://postman-echo.com/get/test/123/uii",
 					"protocol": "https",
 					"host": [
 						"postman-echo",
@@ -59,7 +59,8 @@
 					"path": [
 						"get",
 						"test",
-						"123"
+						"123",
+						"uii"
 					]
 				}
 			},
