@@ -7,18 +7,20 @@
 	},
 	"item": [
 		{
-			"name": "User",
+			"name": "User forked",
 			"item": [
 				{
-					"name": "Get authenticated user",
+					"name": "Get authenticated user-forked",
 					"event": [
 						{
 							"listen": "test",
 							"script": {
+								"id": "c494986a-4a1b-4331-b83d-15eb3492eaac",
 								"exec": [
 									""
 								],
-								"type": "text/javascript"
+								"type": "text/javascript",
+								"packages": {}
 							}
 						}
 					],
@@ -27,7 +29,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://api.getpostman.com/me",
+							"raw": "https://api.getpostman.com/me/test",
 							"protocol": "https",
 							"host": [
 								"api",
@@ -35,7 +37,8 @@
 								"com"
 							],
 							"path": [
-								"me"
+								"me",
+								"test"
 							]
 						},
 						"description": "Gets information about the authenticated user."
