@@ -1260,6 +1260,35 @@
 			],
 			"id": "7321-39d36a5f-a689-4ab3-896d-decd175ab5bb",
 			"description": "The `/collections` endpoints let you manage your [collections](https://learning.postman.com/docs/sending-requests/intro-to-collections/)."
+		},
+		{
+			"name": "forked folder",
+			"item": [
+				{
+					"name": "R1",
+					"id": "7321-80e300a5-1f38-4c28-995a-5f762581e767",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://postman-echo.com/get",
+							"protocol": "https",
+							"host": [
+								"postman-echo",
+								"com"
+							],
+							"path": [
+								"get"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "7321-a32ec07e-c521-4c03-9c7e-dfecaf6f65c9"
 		}
 	],
 	"auth": {
