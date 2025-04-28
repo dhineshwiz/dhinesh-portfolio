@@ -1262,7 +1262,7 @@
 			"description": "The `/collections` endpoints let you manage your [collections](https://learning.postman.com/docs/sending-requests/intro-to-collections/)."
 		},
 		{
-			"name": "New Folder",
+			"name": "forked folder",
 			"item": [],
 			"id": "7321-a32ec07e-c521-4c03-9c7e-dfecaf6f65c9"
 		}
