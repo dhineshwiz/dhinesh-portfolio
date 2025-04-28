@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "User",
+			"name": "User forked",
 			"item": [
 				{
 					"name": "Get authenticated user-forked",
