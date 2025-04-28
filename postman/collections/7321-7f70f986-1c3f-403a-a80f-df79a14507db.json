@@ -1263,7 +1263,20 @@
 		},
 		{
 			"name": "forked folder",
-			"item": [],
+			"item": [
+				{
+					"name": "R1",
+					"id": "7321-80e300a5-1f38-4c28-995a-5f762581e767",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
 			"id": "7321-a32ec07e-c521-4c03-9c7e-dfecaf6f65c9"
 		}
 	],
