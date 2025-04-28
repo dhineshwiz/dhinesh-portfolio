@@ -1262,7 +1262,7 @@
 			"description": "The `/collections` endpoints let you manage your [collections](https://learning.postman.com/docs/sending-requests/intro-to-collections/)."
 		},
 		{
-			"name": "New Request",
+			"name": "r1",
 			"id": "7321-15715f4a-4d2e-419e-bd12-fea8fca1a790",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
