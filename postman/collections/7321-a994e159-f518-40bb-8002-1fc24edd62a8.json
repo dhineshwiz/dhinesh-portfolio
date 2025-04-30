@@ -27,8 +27,17 @@
 			"request": {
 				"method": "GET",
 				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
 				"url": {
-					"raw": "{{base_url}}/info?id=1/test",
+					"raw": "{{base_url}}/info?id=1/test&gg=hh",
 					"host": [
 						"{{base_url}}"
 					],
@@ -39,6 +48,11 @@
 						{
 							"key": "id",
 							"value": "1/test"
+						},
+						{
+							"key": "gg",
+							"value": "hh",
+							"type": "text"
 						}
 					]
 				},
