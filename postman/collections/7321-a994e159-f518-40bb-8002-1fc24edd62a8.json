@@ -12,12 +12,14 @@
 				{
 					"listen": "test",
 					"script": {
+						"id": "f085d495-c3ce-4e4e-b5d8-9bd28136aa21",
 						"exec": [
 							"pm.test(\"Status code is 200\", function () {",
 							"    pm.response.to.have.status(200);",
 							"});"
 						],
-						"type": "text/javascript"
+						"type": "text/javascript",
+						"packages": {}
 					}
 				}
 			],
@@ -26,7 +28,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base_url}}/info?id=1",
+					"raw": "{{base_url}}/info?id=1/test",
 					"host": [
 						"{{base_url}}"
 					],
@@ -36,7 +38,7 @@
 					"query": [
 						{
 							"key": "id",
-							"value": "1"
+							"value": "1/test"
 						}
 					]
 				},
