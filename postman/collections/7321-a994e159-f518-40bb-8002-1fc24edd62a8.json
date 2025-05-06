@@ -35,7 +35,8 @@
 		{
 			"name": "fork folder",
 			"item": [],
-			"id": "7321-dc406b1e-c7c1-47d8-ac80-48f6b5889752"
+			"id": "7321-dc406b1e-c7c1-47d8-ac80-48f6b5889752",
+			"description": "test"
 		},
 		{
 			"name": "Get data 1289000",
@@ -237,7 +238,10 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		}
