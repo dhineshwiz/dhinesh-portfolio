@@ -22,12 +22,20 @@
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": ""
+						}
 					},
 					"response": []
 				}
 			],
 			"id": "7321-7d618d9a-e2ef-44ef-a88e-c39d38876eab"
+		},
+		{
+			"name": "fork folder",
+			"item": [],
+			"id": "7321-dc406b1e-c7c1-47d8-ac80-48f6b5889752"
 		},
 		{
 			"name": "Get data 1289000",
@@ -220,6 +228,18 @@
 				"description": "This is a DELETE request, and it is used to delete data that was previously created via a POST request. You typically identify the entity being updated by including an identifier in the URL (eg. `id=1`).\n\nA successful DELETE request typically returns a `200 OK`, `202 Accepted`, or `204 No Content` response code."
 			},
 			"response": []
+		},
+		{
+			"name": "fork request",
+			"id": "7321-444c7d00-d57a-4a1b-97ac-b6908859370f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"event": [
@@ -244,12 +264,10 @@
 	],
 	"variable": [
 		{
-			"id": "530bbdd9-38d3-441e-92dc-61f171c18dc2",
 			"key": "id",
 			"value": "1"
 		},
 		{
-			"id": "57b5ecc1-1ffd-4eb5-a9a4-fa78c5251c5d",
 			"key": "base_url",
 			"value": "https://postman-rest-api-learner.glitch.me/"
 		}
