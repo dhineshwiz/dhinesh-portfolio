@@ -22,7 +22,10 @@
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": ""
+						}
 					},
 					"response": []
 				}
@@ -244,12 +247,10 @@
 	],
 	"variable": [
 		{
-			"id": "530bbdd9-38d3-441e-92dc-61f171c18dc2",
 			"key": "id",
 			"value": "1"
 		},
 		{
-			"id": "57b5ecc1-1ffd-4eb5-a9a4-fa78c5251c5d",
 			"key": "base_url",
 			"value": "https://postman-rest-api-learner.glitch.me/"
 		}
