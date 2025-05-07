@@ -24,6 +24,78 @@
 		},
 		{
 			"name": "New Request Copy",
+			"id": "7321-f888d43e-fdb4-4fb5-9008-b38a9087d637",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7321-e08af58b-49a7-47da-a6d2-63088d1dcc5c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7321-64142ba9-07c1-4ac2-82f5-55f6203b2811",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7321-74159c52-da26-4c22-910f-a1ef11b0549e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7321-c2fc13c9-1315-4989-b5d5-c2d9dfb61588",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7321-ea51edf7-a470-470f-95e1-43c0d8378b5b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
 			"id": "7321-8d165fce-19b8-45fa-8875-9db3b9c41f94",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
