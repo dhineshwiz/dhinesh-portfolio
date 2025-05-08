@@ -28,6 +28,15 @@
 					"request": {
 						"method": "GET",
 						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{test: }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
 						"url": {
 							"raw": "https://api.getpostman.com/me/test/test/test",
 							"protocol": "https",
