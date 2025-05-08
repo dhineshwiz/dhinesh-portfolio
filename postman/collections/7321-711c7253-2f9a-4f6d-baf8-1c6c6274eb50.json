@@ -247,16 +247,10 @@
 							"body": null
 						}
 					]
-				}
-			],
-			"id": "7321-9e03902f-02e1-4ae7-b797-d38d99d43919"
-		},
-		{
-			"name": "forked folder",
-			"item": [
+				},
 				{
 					"name": "New Request Copy",
-					"id": "7321-dd691078-fd92-453a-b09d-5f32b803e9ed",
+					"id": "7321-244c12e4-3758-47c1-b9a9-e6fa9fb5053d",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -268,10 +262,16 @@
 						}
 					},
 					"response": []
-				},
+				}
+			],
+			"id": "7321-9e03902f-02e1-4ae7-b797-d38d99d43919"
+		},
+		{
+			"name": "forked folder",
+			"item": [
 				{
 					"name": "New Request Copy",
-					"id": "7321-244c12e4-3758-47c1-b9a9-e6fa9fb5053d",
+					"id": "7321-dd691078-fd92-453a-b09d-5f32b803e9ed",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
