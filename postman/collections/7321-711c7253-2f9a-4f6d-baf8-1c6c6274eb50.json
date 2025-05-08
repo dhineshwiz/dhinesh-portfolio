@@ -18,7 +18,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get/tes/rwew/test/test/tesr",
+							"raw": "https://postman-echo.com/get/tes/rwew/test/test/tesr/tes",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
@@ -30,7 +30,8 @@
 								"rwew",
 								"test",
 								"test",
-								"tesr"
+								"tesr",
+								"tes"
 							]
 						}
 					},
