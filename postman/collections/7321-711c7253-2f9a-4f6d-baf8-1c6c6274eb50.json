@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "bug bash 123 updated",
+			"name": "bug bash",
 			"item": [
 				{
 					"name": "New Request",
@@ -18,7 +18,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get/tes/rwew/test/test/tesr/tes",
+							"raw": "https://postman-echo.com/get/tes/rwew/test/test/tesr/tes/test",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
@@ -31,7 +31,8 @@
 								"test",
 								"test",
 								"tesr",
-								"tes"
+								"tes",
+								"test"
 							]
 						}
 					},
