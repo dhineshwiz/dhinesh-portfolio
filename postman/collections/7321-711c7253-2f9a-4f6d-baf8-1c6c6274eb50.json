@@ -340,13 +340,7 @@
 						}
 					},
 					"response": []
-				}
-			],
-			"id": "7321-f4cfb57a-ae93-40ef-af95-b4f0accd21e1"
-		},
-		{
-			"name": "forked folder 2",
-			"item": [
+				},
 				{
 					"name": "fork request 1",
 					"id": "7321-3a5db2e5-163e-42ff-b6a2-aca52032c15c",
@@ -394,7 +388,13 @@
 							"body": null
 						}
 					]
-				},
+				}
+			],
+			"id": "7321-f4cfb57a-ae93-40ef-af95-b4f0accd21e1"
+		},
+		{
+			"name": "forked folder 2",
+			"item": [
 				{
 					"name": "fork request 2",
 					"id": "7321-46586e40-cf00-418e-a303-c0ed9f4a808f",
