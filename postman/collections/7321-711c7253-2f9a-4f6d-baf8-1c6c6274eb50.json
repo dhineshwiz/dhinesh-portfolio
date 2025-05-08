@@ -18,7 +18,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get/tes/rwew",
+							"raw": "https://postman-echo.com/get/tes/rwew/123",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
@@ -27,7 +27,8 @@
 							"path": [
 								"get",
 								"tes",
-								"rwew"
+								"rwew",
+								"123"
 							]
 						}
 					},
