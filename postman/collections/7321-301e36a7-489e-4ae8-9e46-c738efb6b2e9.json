@@ -10,7 +10,7 @@
 			"name": "User forked 1232",
 			"item": [
 				{
-					"name": "Get authenticated user-forked",
+					"name": "Get authenticated user-forked 123",
 					"event": [
 						{
 							"listen": "test",
