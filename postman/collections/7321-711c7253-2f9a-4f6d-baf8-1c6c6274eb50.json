@@ -283,21 +283,6 @@
 						}
 					},
 					"response": []
-				},
-				{
-					"name": "request to move",
-					"id": "7321-8d165fce-19b8-45fa-8875-9db3b9c41f94",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": ""
-						}
-					},
-					"response": []
 				}
 			],
 			"id": "7321-f4cfb57a-ae93-40ef-af95-b4f0accd21e1"
@@ -373,6 +358,21 @@
 							"path": [
 								"get"
 							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "request to move",
+					"id": "7321-8d165fce-19b8-45fa-8875-9db3b9c41f94",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
 						}
 					},
 					"response": []
