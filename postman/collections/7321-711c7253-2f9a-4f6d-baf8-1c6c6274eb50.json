@@ -152,7 +152,24 @@
 							"raw": ""
 						}
 					},
-					"response": []
+					"response": [
+						{
+							"id": "7321-26ebf3d6-d0ae-45f2-8079-7c0abee0ea90",
+							"name": "New Request Copy",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": ""
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"responseTime": null,
+							"body": null
+						}
+					]
 				},
 				{
 					"name": "New Request Copy",
@@ -226,7 +243,32 @@
 							]
 						}
 					},
-					"response": []
+					"response": [
+						{
+							"id": "7321-90f02fdb-fbde-4187-bf98-fe716f01d8da",
+							"name": "fork request 1",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://postman-echo.com/get",
+									"protocol": "https",
+									"host": [
+										"postman-echo",
+										"com"
+									],
+									"path": [
+										"get"
+									]
+								}
+							},
+							"_postman_previewlanguage": null,
+							"header": null,
+							"cookie": [],
+							"responseTime": null,
+							"body": null
+						}
+					]
 				},
 				{
 					"name": "fork request 2",
