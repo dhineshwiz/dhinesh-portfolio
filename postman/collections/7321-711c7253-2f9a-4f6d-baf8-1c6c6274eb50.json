@@ -43,7 +43,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get/lmlk",
+							"raw": "https://postman-echo.com/get/jjj",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
@@ -51,7 +51,7 @@
 							],
 							"path": [
 								"get",
-								"lmlk"
+								"jjj"
 							]
 						}
 					},
