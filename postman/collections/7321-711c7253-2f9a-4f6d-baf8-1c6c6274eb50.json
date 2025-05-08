@@ -203,8 +203,21 @@
 			"id": "7321-f4cfb57a-ae93-40ef-af95-b4f0accd21e1"
 		},
 		{
-			"name": "New Folder",
-			"item": [],
+			"name": "forked folder 2",
+			"item": [
+				{
+					"name": "New Request",
+					"id": "7321-3a5db2e5-163e-42ff-b6a2-aca52032c15c",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
 			"id": "7321-42afc903-e036-4e75-a28c-27878fa3a4b6"
 		}
 	]
