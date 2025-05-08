@@ -206,14 +206,48 @@
 			"name": "forked folder 2",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "fork request 1",
 					"id": "7321-3a5db2e5-163e-42ff-b6a2-aca52032c15c",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "https://postman-echo.com/get",
+							"protocol": "https",
+							"host": [
+								"postman-echo",
+								"com"
+							],
+							"path": [
+								"get"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "fork request 1 Copy",
+					"id": "7321-46586e40-cf00-418e-a303-c0ed9f4a808f",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://postman-echo.com/get",
+							"protocol": "https",
+							"host": [
+								"postman-echo",
+								"com"
+							],
+							"path": [
+								"get"
+							]
+						}
 					},
 					"response": []
 				}
