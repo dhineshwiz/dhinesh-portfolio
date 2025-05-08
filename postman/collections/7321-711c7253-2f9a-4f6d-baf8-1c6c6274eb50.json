@@ -43,14 +43,15 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get",
+							"raw": "https://postman-echo.com/get/lmlk",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
 								"com"
 							],
 							"path": [
-								"get"
+								"get",
+								"lmlk"
 							]
 						}
 					},
