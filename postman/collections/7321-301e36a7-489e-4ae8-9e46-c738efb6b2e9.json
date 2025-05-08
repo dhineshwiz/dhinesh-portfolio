@@ -29,7 +29,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://api.getpostman.com/me/test/test",
+							"raw": "https://api.getpostman.com/me/test/test/test",
 							"protocol": "https",
 							"host": [
 								"api",
@@ -38,6 +38,7 @@
 							],
 							"path": [
 								"me",
+								"test",
 								"test",
 								"test"
 							]
