@@ -75,7 +75,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get/jjj.kkh",
+							"raw": "https://postman-echo.com/get/jjj.kkh/test",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
@@ -83,7 +83,8 @@
 							],
 							"path": [
 								"get",
-								"jjj.kkh"
+								"jjj.kkh",
+								"test"
 							]
 						}
 					},
