@@ -54,7 +54,7 @@
 									]
 								}
 							},
-							"_postman_previewlanguage": null,
+							"_postman_previewlanguage": "Text",
 							"header": null,
 							"cookie": [],
 							"responseTime": null,
@@ -191,7 +191,7 @@
 									"raw": ""
 								}
 							},
-							"_postman_previewlanguage": null,
+							"_postman_previewlanguage": "Text",
 							"header": null,
 							"cookie": [],
 							"responseTime": null,
@@ -260,14 +260,15 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://postman-echo.com/get",
+							"raw": "https://postman-echo.com/get/test",
 							"protocol": "https",
 							"host": [
 								"postman-echo",
 								"com"
 							],
 							"path": [
-								"get"
+								"get",
+								"test"
 							]
 						}
 					},
@@ -290,7 +291,7 @@
 									]
 								}
 							},
-							"_postman_previewlanguage": null,
+							"_postman_previewlanguage": "Text",
 							"header": null,
 							"cookie": [],
 							"responseTime": null,
