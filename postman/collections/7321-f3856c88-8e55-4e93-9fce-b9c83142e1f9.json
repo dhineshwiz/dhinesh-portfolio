@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "User",
+			"name": "User 12",
 			"item": [
 				{
 					"name": "Get authenticated user",
@@ -1298,6 +1298,7 @@
 	],
 	"variable": [
 		{
+			"id": "fba11ad2-2861-404f-a901-510ff67c6eb2",
 			"key": "baseUrl",
 			"value": "https://farming-simulator.pstmn.io"
 		}
